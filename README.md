@@ -2,10 +2,11 @@
   <img src="svg/hi.svg" width="1200" alt="Click to see the source" />
 </a>
 <br><br/>
+<div align="center">
 ##Snake eating my contribution graph
 
 ![snake gif](https://github.com/nynhh01/nynhh01/blob/output/github-contribution-grid-snake.gif)
-
+</div>
 <!--<h2 align="center">📑 :33333 📑</h2>
 <br>
  https://github.com/shravan20/github-readme-quotes 
