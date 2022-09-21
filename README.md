@@ -2,7 +2,8 @@
   <img src="svg/hi.svg" width="1200" alt="Click to see the source" />
 </a>
 
-
+<br>
+![snake gif](https://github.com/nynhh01/nynhh01/blob/output/github-contribution-grid-snake.gif)
 <br>
 
 <h2 align="center">📑 :33333 📑</h2>
