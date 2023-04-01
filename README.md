@@ -9,21 +9,6 @@
 - 💬 Ask me about anything at ntlinh1833@gmail.com
 - 🔥 Favorite quote: Where there is desire, there is gonna be a flame
 
-## 🛠 Languages and Tools<br>
-<div align="center"> 
-  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/null/typescript.png"/>
-  <img src="https://img.icons8.com/offices/50/null/php-logo.png"/>
-  <img src="https://img.icons8.com/color/48/null/git.png"/>
-  <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
-  <img src="https://img.icons8.com/plasticine/50/null/react.png"/>
-</div>
-
-
 ## 🌐️ Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/nynhh01/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
