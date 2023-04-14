@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="450" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -35,8 +35,8 @@
           background-size: cover;
           border: 2px solid #000;
           border-radius: 50%;
-          width: 240px;
-          height: 240px;
+          width: 200px;
+          height: 200px;
           animation: spinAround 7s linear 0s infinite alternate;
           box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
                     -8px -8px 15px #000 inset,
