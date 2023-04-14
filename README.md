@@ -4,7 +4,7 @@
 <br><br/>
 
 ## 👋 About me<br>
-- 🔭 I am an ambitious, hard-working, and aggressive learner who believes the core value of any business is to improve people's lives
+- 🔭 I'm currently studying at University of Engineering and Technology
 - 🌱 I'm always eager to learn new things day by day
 - 💬 Ask me about anything at ntlinh1833@gmail.com
 - 🔥 Favorite quote: Where there is desire, there is gonna be a flame
