@@ -4,10 +4,7 @@
 <br><br/>
 
 ## 👋 About me<br>
-- 🔭 I'm currently studying at University of Engineering and Technology
-- 🌱 I'm always eager to learn new things day by day
 - 💬 Ask me about anything at ntlinh1833@gmail.com
-- 🔥 Favorite quote: Where there is desire, there is gonna be a flame
 ## 📝 Github stats
 
 | <a href="https://github.com/nynhh01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nynhh01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/nynhh01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nynhh01&layout=compact&theme=buefy&hide_border=true" /></a> |
